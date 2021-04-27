@@ -12,59 +12,84 @@
 
 # 🏢 I'm currently working....
 
-[![shoplab](http://shoplab.co.kr/web/upload/category/editor/2020/11/23/eaf39cd9f9868f8809f2ecc32664f745.PNG)](http://shoplab.co.kr)
-* **ShopLab**
-    * IT development team Leader
-    * 2021.02.16 ~ now
+>-------------------------
+> [![shoplab](http://shoplab.co.kr/web/upload/category/editor/2020/11/23/eaf39cd9f9868f8809f2ecc32664f745.PNG)](http://shoplab.co.kr)
+>* **ShopLab**
+>    * IT development team Leader
+>    * 2021.02.16 ~ now
+>    * Develop WEB/APP solution and Shopping mall automation
+>--------------------------
+
+# 🔬 I'm currently researching....
+
+>---------------------
+>* Cafe24 Shopping mall APIs
+>* Joom APIs
+>* Shopping mall automation service
+>--------------------
 
 # 📋 Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
-> 01. ![lang Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&logoWidth=30)
-> 02. ![lang NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&logoWidth=30)
-> 03. ![lang Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&logoWidth=30)
-> 04. ![lang Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&logoWidth=30)
-> 05. ![lang PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white&logoWidth=30)
-> 06. ![lang Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white&logoWidth=30)
-> 07. ![lang C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&logoWidth=30)
-> 08. ![lang Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&logoWidth=30)
-> 09. ![lang Sql](https://img.shields.io/badge/Sql-007396?style=for-the-badge&logo=MySQL&logoColor=white&logoWidth=30)
-> 10. ![lang GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white&logoWidth=30)
---------------------------------
+>------------------------------
+>| Languages | Ability |
+>|---|---:|
+>|![lang Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&logoWidth=30)|**High**|
+>|![lang NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&logoWidth=30)| **High**|
+>|![lang Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&logoWidth=30)|**High**|
+>|![lang Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&logoWidth=30)|**High**|
+>|![lang PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white&logoWidth=30)|**Middle**|
+>|![lang Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white&logoWidth=30)|**Middle**|
+>|![lang C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&logoWidth=30)|**High**|
+>|![lang Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&logoWidth=30)|**Middle**|
+>|![lang Sql](https://img.shields.io/badge/Sql-007396?style=for-the-badge&logo=MySQL&logoColor=white&logoWidth=30)|**Middle**|
+>|![lang GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white&logoWidth=30)|**Middle**|
+>--------------------------------
 
-## 🎨 Frontend
+### 🎨 Frontend
 
-> 01. ![front ReactJs](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=00001F&logoWidth=30)
-> 02. ![front Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white&logoWidth=30)
-> 03. ![front MobX](https://img.shields.io/badge/MobX-FF9966?style=for-the-badge&logo=MobX&logoColor=00001F&logoWidth=30)
---------------------------------
+>-----------------------------------
+>| framework | Ability |
+>|---|---:|
+>|![front ReactJs](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=00001F&logoWidth=30)|**High**|
+>|![front Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white&logoWidth=30)|**Middle**|
+>|![front MobX](https://img.shields.io/badge/MobX-FF9966?style=for-the-badge&logo=MobX&logoColor=00001F&logoWidth=30)|**Middle**|
+>--------------------------------
 
-## 🔨 Backend
+### 🔨 Backend
 
-> 01. ![back Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white&logoWidth=30)
-> 02. ![back Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&logoWidth=30)
-> 03. ![back Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&logoWidth=30)
-> 04. ![back Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white&logoWidth=30)
---------------------------------
+>---------------------------------
+>| framework | Ability |
+>|---|---:|
+>|![back Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white&logoWidth=30)|**High**|
+>|![back Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&logoWidth=30)|**High**|
+>|![back Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&logoWidth=30)|**Middle**|
+>|![back Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white&logoWidth=30)|**High**|
+>--------------------------------
 
-## 🔗 Cross Platform
+### 🔗 Cross Platform
 
-> 01. ![cross Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white&logoWidth=30)
-> 02. ![cross React-Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=00001F&logoWidth=30)
-> 03. ![cross Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&logoWidth=30)
-> 04. ![cross Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white&logoWidth=30)
---------------------------------
+>---------------------------------
+>| framework | Ability |
+>|---|---:|
+>|![cross Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white&logoWidth=30)|**High**|
+>|![cross React-Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=00001F&logoWidth=30)|**High**|
+>|![cross Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&logoWidth=30)|**Middle**|
+>|![cross Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white&logoWidth=30)|**High**|
+>--------------------------------
 
-## 📚 Server & DB
+### 📚 Server & DB
 
-> 01. ![server AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white&logoWidth=30)
-> 02. ![server Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&logoWidth=30)
-> 03. ![server Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white&logoWidth=30)
-> 04. ![server MysqlMariaDB](https://img.shields.io/badge/MySQL%20&%20MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white&logoWidth=30)
-> 05. ![server SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white&logoWidth=30)
-> 06. ![server MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&logoWidth=30)
-
---------------------------------
+>---------------------------------
+>| framework | Ability |
+>|---|---:|
+>|![server AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white&logoWidth=30)|**Middle**|
+>|![server Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&logoWidth=30)|**Middle**|
+>|![server Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white&logoWidth=30)|**Middle**|
+>|![server MysqlMariaDB](https://img.shields.io/badge/MySQL%20&%20MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white&logoWidth=30)|**High**|
+>|![server SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white&logoWidth=30)|**High**|
+>|![server MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&logoWidth=30)|**Middle**|
+>--------------------------------
 
 
