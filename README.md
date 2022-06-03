@@ -6,22 +6,24 @@
 개발자로써의 정식출시를 꿈꾸는 베타버전 학생 개발자 강민수입니다 :)
 ```
 
-## GitHub Stats
+## 📊 GitHub 스탯
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?theme=onedark&username=skymins04)](https://github.com/anuraghazra/github-readme-stats)
 
-## BOJ Stats
+## 📊 BOJ 스탯
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skymins04)](https://solved.ac/skymins04)
 
-## 주요프로젝트
+## 🥕 주요프로젝트
 
-- [STREAM-MUSIC](https://stream-music.netlify.app)[[Frontend](https://github.com/skymins04/stream-music), Backend(보안 문제로 Repo 공개 불가)] : 음악 방송용 YouTube음원, 로컬파일음원 통합 플레이어 및 방송송출용 오버레이 서비스
-- [Qnet 시험장 검색 자동화 스크립트](https://github.com/skymins04/qnet-test-center-finder) : 시험장 수가 부족한 자격증시험에서 취소처리로 인한 시험장 공석을 찾아주는 자동화 스크립트
-- [G마켓 베스트셀러 크롤러](https://github.com/skymins04/gmarket-crawler) : G마켓의 제품 카테고리 별 베스트셀러를 크롤링하는 툴
-- [Weby Block](https://github.com/skymins04/weby-block/tree/develop) : WEB을 쉽게 배울 수 있는 Blockly 기반 EPL 프로젝트
+- [STREAM-MUSIC](https://stream-music.netlify.app)[[Frontend](https://github.com/skymins04/stream-music), Backend(보안 문제로 Repo 공개 불가)] : 음악 방송용 YouTube음원, 로컬파일음원 통합 플레이어 및 방송송출용 오버레이 서비스.
+- [Qnet 시험장 검색 자동화 스크립트](https://github.com/skymins04/qnet-test-center-finder) : 시험장 수가 부족한 자격증시험에서 취소처리로 인한 시험장 공석을 찾아주는 자동화 스크립트.
+- [G마켓 베스트셀러 크롤러](https://github.com/skymins04/gmarket-crawler) : G마켓의 제품 카테고리 별 베스트셀러를 크롤링하는 툴. 영업/통계를 위한 자료 수집을 위해 만들어짐.
+- [Weby Block](https://github.com/skymins04/weby-block/tree/develop) : WEB의 Frontend와 Backend를 쉽게 배울 수 있는 Blockly 기반 EPL(Educational Programing Langauge) 개발 프로젝트
+- [CSS Template Tag Replacer](https://github.com/skymins04/CSS-Template-Tag-Replacer) : 템플릿 CSS파일 내의 Tag들을 지정한 문자열로 지환하여 새로운 CSS파일을 생성하는 툴입니다. 고정된 디자인의 Twip/아프리카도우미 채팅창테마 제작을 위해 만들어짐.
+- [mBlock Extension for DigitalMonkey](https://github.com/skymins04/mBlock-Extension-for-DigitalMonkey) : 교육용 아두이노 보드 DigitalMonkey 및 일반 아두이노 보드에서 사용할 수 있는 센서/모듈 mBlock 3 확장프로그램입니다.
 
-## 주요기술스택
+## 🥞 주요기술스택
 
 저는 주로 JS/Node 생태계를 사랑하며 자주 사용합니다!
 
@@ -34,7 +36,12 @@
 | **Server Infra.** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=Serverless&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> |
 | **Etc.**          | <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white"> <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white">                                                                                                                                                                                                                |
 
-## Contact
+## 📚 요즘 공부 중인 기술
+
+- Rust : 안정적이고 효육적인 서비스를 구축할 수 있는 언어입니다. 주요 BackEnd 기술로 도입해보기 위해 공부중입니다.
+- React : 리엑트의 Advenced한 기능들을 공부하고 있습니다!
+
+## 📫 강민수에게 연락하는 방법
 
 - 💌 E-Mail : skymin0417@gmail.com
 - 🙋‍♂️ Facebook : [BetaManKang](https://www.facebook.com/BetaManKang)
