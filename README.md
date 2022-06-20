@@ -24,6 +24,7 @@
 
 ### - Tools
 
+- [Twip Chatbox test tool](https://github.com/skymins04/twip-chatbox-test-tool) : Twip Chatbox 테마 제작 시 필요한 채팅 테스트를 도와주는 도구입니다. 여러 종류의 테스트 사용자로 채팅 테스트를 진행할 수 있습니다.
 - [Docker + Jenkin Shell Script](https://github.com/skymins04/docker-jenkins-sh.git) : Docker 위에 Jenkins를 설치하고 실행, 백업할 수 있는 Shell Script 모음입니다. Jenkins를 통해 Docker Container 배포자동화를 구축할 수 있습니다.
 - [CSS Template Tag Replacer](https://github.com/skymins04/CSS-Template-Tag-Replacer) : 템플릿 CSS파일 내의 Tag들을 지정한 문자열로 지환하여 새로운 CSS파일을 생성하는 툴입니다. 고정된 디자인의 Twip/아프리카도우미 채팅창테마 제작을 위해 만들어짐.
 - [G마켓 베스트셀러 크롤러](https://github.com/skymins04/gmarket-crawler) : G마켓의 제품 카테고리 별 베스트셀러를 크롤링하는 툴. 영업/통계를 위한 자료 수집을 위해 만들어짐.
