@@ -18,6 +18,7 @@
 
 ### - Projects
 
+- Twip Chatbox test tool: [[레포지토리 링크](https://github.com/skymins04/twip-chatbox-test-tool), [크롬웹스토어 링크](https://chrome.google.com/webstore/detail/twip-chatbox-test-tool/dmpokkhjjinmldokleiiibigbieikdoa)] : Twip Chatbox 테마 제작 시 필요한 채팅 테스트와 자동저장 및 템플릿 관리를 도와주는 크롬 확장프로그램입니다. 여러 종류의 테스트 사용자로 채팅 테스트를 진행할 수 있고, 트윕 로그인 해제로 인해 작업 중인 커스텀테마 CSS 소스의 손실을 예방할 수 있습니다.
 - 실시간 하천 수위 현황 시각화 서비스[[서비스 링크](https://river-level.netlify.app), [레포지토리 링크](https://github.com/skymins04/real-time-river-level-korea)]: 대한민국 각 시도 내 지역별 하천 수위 공공데이터 Open API를 시각화하여 사용자가 쉽고 직관적으로 하천 수위 현황을 확인할 수 있는 서비스입니다.
 - [STREAM-MUSIC](https://stream-music.netlify.app)[[Frontend](https://github.com/skymins04/stream-music), Backend(보안 문제로 Repo 공개 불가)] : 음악 방송용 YouTube음원, 로컬파일음원 통합 플레이어 및 방송송출용 오버레이 서비스.
 - [iambuyer.co.kr](https://www.iambuyer.co.kr) : 중국 최대 B2B 전자상거래 플랫폼 기업 [후이총왕](https://www.hc360.com/)의 공식 국내 총판 (주)케이플랫폼의 iambuyer 서비스 외주 개발. B2B/B2C 중국 공장조사/샘플구매/무역대행 직거래 플랫폼.
@@ -28,7 +29,6 @@
 - [react-project-template](https://github.com/skymins04/react-project-template) : 리액트 프로젝트 생성을 위한 템플릿입니다. React + Typescript + Webpack 5 + Babel + ESLint + Prettier + dotenv를 포함합니다.
 - [nextjs-project-template](https://github.com/skymins04/nextjs-project-template) : Next.js 프로젝트 생성을 위한 템플릿입니다. Next.js + Typescript + redux + i18next + axios + immer + ESLint + Prettier + 반응형레이아웃을 포함합니다.
 - [svelte-chrome-extention-boilerplate](https://github.com/skymins04/svelte-chrome-extension-boilerplate) : Chrome 브라우저 확장프로그램 (manifest v3) 개발을 위한 스벨트 보일러플레이트입니다.
-- Twip Chatbox test tool: [[레포지토리 링크](https://github.com/skymins04/twip-chatbox-test-tool), [크롬웹스토어 링크](https://chrome.google.com/webstore/detail/twip-chatbox-test-tool/dmpokkhjjinmldokleiiibigbieikdoa)] : Twip Chatbox 테마 제작 시 필요한 채팅 테스트를 도와주는 크롬 확장프로그램입니다. 여러 종류의 테스트 사용자로 채팅 테스트를 진행할 수 있습니다.
 - [Docker + Jenkin Shell Script](https://github.com/skymins04/docker-jenkins-sh.git) : Docker 위에 Jenkins를 설치하고 실행, 백업할 수 있는 Shell Script 모음입니다. Jenkins를 통해 Docker Container 배포자동화를 구축할 수 있습니다.
 - [CSS Template Tag Replacer](https://github.com/skymins04/CSS-Template-Tag-Replacer) : 템플릿 CSS파일 내의 Tag들을 지정한 문자열로 지환하여 새로운 CSS파일을 생성하는 툴입니다. 고정된 디자인의 Twip/아프리카도우미 채팅창테마 제작을 위해 만들어짐.
 - [Cafe24 쇼핑몰 테마 백업툴](https://github.com/shoplab-co-kr/cafe24-theme-backuptool) : FTP 접속 없이 Cafe24 쇼핑몰의 스마드디자인 테마를 백업하기 위한 크롤러입니다.
