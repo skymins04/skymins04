@@ -62,4 +62,4 @@
 - 💌 E-Mail : skymin0417@gmail.com
 - 🙋‍♂️ Facebook : [BetaManKang](https://www.facebook.com/BetaManKang)
 - ⭐️ Instagram : [kangdev_04](https://www.instagram.com/kangdev_04)
-- 📚 Blog : [베타맨의 공사장](https://betaman-workshop.tistory.com)
+- 📚 Blog : [베타맨의 공사장](https://blog.betaman.kr)
