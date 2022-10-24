@@ -27,6 +27,7 @@
 ### - Tools
 
 - [react-project-template](https://github.com/skymins04/react-project-template) : 리액트 프로젝트 생성을 위한 템플릿입니다. React + Typescript + Webpack 5 + Babel + ESLint + Prettier + dotenv를 포함합니다.
+- [sveltekit-project-template](https://github.com/skymins04/sveltekit-project-template) : SvelteKit 프로젝트 생성을 위한 템플릿입니다.
 - [nextjs-project-template](https://github.com/skymins04/nextjs-project-template) : Next.js 프로젝트 생성을 위한 템플릿입니다. Next.js + Typescript + redux + i18next + axios + immer + ESLint + Prettier + 반응형레이아웃을 포함합니다.
 - [svelte-chrome-extention-boilerplate](https://github.com/skymins04/svelte-chrome-extension-boilerplate) : Chrome 브라우저 확장프로그램 (manifest v3) 개발을 위한 스벨트 보일러플레이트입니다.
 - [Docker + Jenkin Shell Script](https://github.com/skymins04/docker-jenkins-sh.git) : Docker 위에 Jenkins를 설치하고 실행, 백업할 수 있는 Shell Script 모음입니다. Jenkins를 통해 Docker Container 배포자동화를 구축할 수 있습니다.
