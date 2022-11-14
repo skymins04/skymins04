@@ -18,7 +18,8 @@
 
 ### - Projects
 
-- Twip Chatbox test tool: [[레포지토리 링크](https://github.com/skymins04/twip-chatbox-test-tool), [크롬웹스토어 링크](https://chrome.google.com/webstore/detail/twip-chatbox-test-tool/dmpokkhjjinmldokleiiibigbieikdoa)] : Twip Chatbox 테마 제작 시 필요한 채팅 테스트와 자동저장 및 템플릿 관리를 도와주는 크롬 확장프로그램입니다. 여러 종류의 테스트 사용자로 채팅 테스트를 진행할 수 있고, 트윕 로그인 해제로 인해 작업 중인 커스텀테마 CSS 소스의 손실을 예방할 수 있습니다.
+- Naver카페/트게더 글목록 Twitch 확장패널[[포키쨩-연중무휴포차](https://www.twitch.tv/popout/pocky_chan8_8/extensions/ehjriaina9qhedzhvzrhqg5sdvvesd/panel), [레포지토리 링크](https://github.com/skymins04/twitch-fan-cafe-panel)] : Naver카페와 트게더의 글목록을 크롤링하여 Twitch 확장패널로 띄워주는 Twitch 확장프로그램
+- Twip Chatbox test tool[[레포지토리 링크](https://github.com/skymins04/twip-chatbox-test-tool), [크롬웹스토어 링크](https://chrome.google.com/webstore/detail/twip-chatbox-test-tool/dmpokkhjjinmldokleiiibigbieikdoa)] : Twip Chatbox 테마 제작 시 필요한 채팅 테스트와 자동저장 및 템플릿 관리를 도와주는 크롬 확장프로그램입니다. 여러 종류의 테스트 사용자로 채팅 테스트를 진행할 수 있고, 트윕 로그인 해제로 인해 작업 중인 커스텀테마 CSS 소스의 손실을 예방할 수 있습니다.
 - 실시간 하천 수위 현황 시각화 서비스[[서비스 링크](https://river-level.netlify.app), [레포지토리 링크](https://github.com/skymins04/real-time-river-level-korea)]: 대한민국 각 시도 내 지역별 하천 수위 공공데이터 Open API를 시각화하여 사용자가 쉽고 직관적으로 하천 수위 현황을 확인할 수 있는 서비스입니다.
 - [STREAM-MUSIC](https://stream-music.netlify.app)[[Frontend](https://github.com/skymins04/stream-music), Backend(보안 문제로 Repo 공개 불가)] : 음악 방송용 YouTube음원, 로컬파일음원 통합 플레이어 및 방송송출용 오버레이 서비스.
 - [iambuyer.co.kr](https://www.iambuyer.co.kr) : 중국 최대 B2B 전자상거래 플랫폼 기업 [후이총왕](https://www.hc360.com/)의 공식 국내 총판 (주)케이플랫폼의 iambuyer 서비스 외주 개발. B2B/B2C 중국 공장조사/샘플구매/무역대행 직거래 플랫폼.
